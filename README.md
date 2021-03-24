@@ -52,7 +52,7 @@ Feel free to submitting pull requests to us.
 
 ## Author
 
-* **Carlos Heitor** - *Initial work* - [Twitter](https://www.twitter.com/ccheitor)
+* **Carlos Heitor** - *Initial work* - [Linkedin](https://www.linkedin.com/in/ccheitor/)
 
 ## License
 
